@@ -4,6 +4,7 @@
     padding: 10px;
     margin: 0;
     border: 5px solid rgb(199, 137, 23);
+    border-bottom: 10px solid red;
     text-align: center;
 }
 
