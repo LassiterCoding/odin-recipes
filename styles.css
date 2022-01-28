@@ -11,3 +11,14 @@
 h4 {
     color: rgb(28, 110, 52);
 }
+
+.menu {
+    background-color: rgb(37, 37, 165);
+    color: white;
+    border: 5px solid rgb(199, 137, 23);
+    border-top: 10px solid red;
+}
+
+a {
+    color: white;
+}
